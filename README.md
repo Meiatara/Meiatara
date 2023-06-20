@@ -3,9 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=500&pause=1000&color=F731EC&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Handayani+Meiatara)](https://git.io/typing-svg)
 </h1>
 
+<h2 align="left">About Me:</h3>
+
 - 🏫 I'm an undergraduate student in **Informatics Engineering** from **Pancasila University**
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me **hmeiatara@gmail.com**
+
+<h2 align="left">Connect with Me:</h3>
+
+[![Instagram](https://img.shields.io/badge/@taraaa__ss-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taraaa_ss)
+[![LinkedIn](https://img.shields.io/badge/Handayani_Meiatara-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handayani-meiatara-771655208)
+[![Gmail](https://img.shields.io/badge/hmeiatara@gmail.com-D14836?&logo=gmail&logoColor=white)](mailto:hmeiatara@gmail.com)
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -28,4 +36,5 @@
 
 <h2 align="left">Github Stats:</h3>
 
-![Meiatara's GitHub stats](https://github-readme-stats.vercel.app/api?username=meiatara&theme=omni&show_icons=true)
+![Meiatara's GitHub stats](https://github-readme-stats.vercel.app/api?username=meiatara&theme=omni&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meiatara&theme=omni&hide_border=true)](https://git.io/streak-stats)
