@@ -11,7 +11,7 @@
 
 <h2 align="left">Connect with Me:</h3>
 
-[![Instagram](https://img.shields.io/badge/@taraaa__ss-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taraaa_ss)
+[![Instagram](https://img.shields.io/badge/@taraaa__ss-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taraaa__ss)
 [![LinkedIn](https://img.shields.io/badge/Handayani_Meiatara-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/handayani-meiatara-771655208)
 [![Gmail](https://img.shields.io/badge/hmeiatara@gmail.com-D14836?&logo=gmail&logoColor=white)](mailto:hmeiatara@gmail.com)
 
